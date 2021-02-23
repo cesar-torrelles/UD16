@@ -26,4 +26,4 @@ MySQL Server 8.0
 MySQL Workbench 8.0
 ```
 ###  4. Screenshot imagen que indique cómo debe verse el proyecto.
-![banerGit]()
+![banerGit](https://github.com/cesar-torrelles/UD16/blob/main/IMAGEN.png)
